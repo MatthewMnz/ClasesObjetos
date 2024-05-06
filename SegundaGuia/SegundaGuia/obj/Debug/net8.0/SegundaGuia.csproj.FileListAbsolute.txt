@@ -1,0 +1,14 @@
+C:\Users\matta\source\repos\SegundaGuia\SegundaGuia\bin\Debug\net8.0\SegundaGuia.exe
+C:\Users\matta\source\repos\SegundaGuia\SegundaGuia\bin\Debug\net8.0\SegundaGuia.deps.json
+C:\Users\matta\source\repos\SegundaGuia\SegundaGuia\bin\Debug\net8.0\SegundaGuia.runtimeconfig.json
+C:\Users\matta\source\repos\SegundaGuia\SegundaGuia\bin\Debug\net8.0\SegundaGuia.dll
+C:\Users\matta\source\repos\SegundaGuia\SegundaGuia\bin\Debug\net8.0\SegundaGuia.pdb
+C:\Users\matta\source\repos\SegundaGuia\SegundaGuia\obj\Debug\net8.0\SegundaGuia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matta\source\repos\SegundaGuia\SegundaGuia\obj\Debug\net8.0\SegundaGuia.AssemblyInfoInputs.cache
+C:\Users\matta\source\repos\SegundaGuia\SegundaGuia\obj\Debug\net8.0\SegundaGuia.AssemblyInfo.cs
+C:\Users\matta\source\repos\SegundaGuia\SegundaGuia\obj\Debug\net8.0\SegundaGuia.csproj.CoreCompileInputs.cache
+C:\Users\matta\source\repos\SegundaGuia\SegundaGuia\obj\Debug\net8.0\SegundaGuia.dll
+C:\Users\matta\source\repos\SegundaGuia\SegundaGuia\obj\Debug\net8.0\refint\SegundaGuia.dll
+C:\Users\matta\source\repos\SegundaGuia\SegundaGuia\obj\Debug\net8.0\SegundaGuia.pdb
+C:\Users\matta\source\repos\SegundaGuia\SegundaGuia\obj\Debug\net8.0\SegundaGuia.genruntimeconfig.cache
+C:\Users\matta\source\repos\SegundaGuia\SegundaGuia\obj\Debug\net8.0\ref\SegundaGuia.dll

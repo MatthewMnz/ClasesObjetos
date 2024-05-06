@@ -41,6 +41,13 @@
                 }
                 return null;
             }
+
+            if (empleadoCambiarEstado != null)
+            {
+                empleadoCambiarEstado.ChangeStatus(1);
+                empleadoCambiarEstado.IncreaseSalary(10);
+                empleadoCambiarEstado.ShowDetails();
+            }
         }
     }
 }

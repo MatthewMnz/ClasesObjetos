@@ -49,5 +49,12 @@ namespace SegundaGuia
                 Console.WriteLine("Estado no valido");
             }
         }
+
+        public void IncreaseSalary(decimal porcentaje)
+        {
+            salario += salario * (porcentaje / 100);
+            Console.WriteLine($"El salario de {nombre} se aumento en un {porcentaje}%.");
+        }
+
     }
 }
